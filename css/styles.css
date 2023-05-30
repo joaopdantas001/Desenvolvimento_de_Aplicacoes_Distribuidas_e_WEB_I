@@ -1,0 +1,29 @@
+
+
+table{
+	border: 3px solid black;
+	background-color: #f2fff9;
+}
+tr, td, th{
+	border: 1px solid black;
+}
+th{
+	font-size: larger;
+}
+.hobbies{
+	max-width: 50%;
+	width: 50px;
+}
+#linguagens_programacao{
+	max-width: 100%;
+	width: 200px;
+}
+#paises{
+	max-width: 100%;
+	width: 200px;
+}
+#genero{
+	max-width: 100%;
+	width: 200px;
+}
+
